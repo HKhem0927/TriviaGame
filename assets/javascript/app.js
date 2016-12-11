@@ -73,11 +73,11 @@ var game = {
 		image: "assets/images/cubs.gif"
 	}, {
 
-		question: "Which team drafted Babe Ruth?",
+		question: "Which team originally signed Babe Ruth?",
 		choices: ["New York Yankees",
 				 "Boston Braves",
 				 "Boston Red Sox",
-				 "Philadelpia Phillies"
+				 "Baltimore Orioles"
 		],
 		correct: "Boston Red Sox",
 		image: "assets/images/ruth.gif"
