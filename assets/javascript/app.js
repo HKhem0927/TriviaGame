@@ -16,7 +16,7 @@ var game = {
 				"32"
 		],
 		correct: "27",
-		image: "assets/images/dj.jpg"
+		image: "assets/images/dj.gif"
 	}, {
 
 		question: "Which team is the oldest continuous one name, one city francise in all of American sports?",
@@ -100,7 +100,7 @@ var game = {
 				 "John Smoltz"
 		],
 		correct: "Randy Johnson",
-		image: "assets/images/randy.jpg"
+		image: "assets/images/johnson.gif"
 
 	}, {
 
