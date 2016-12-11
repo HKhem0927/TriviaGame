@@ -27,7 +27,7 @@ var game = {
 
 		],
 		correct: "Philadelphia Phillies",
-		image: "assets/images/phillies.gif"
+		image: "assets/images/cbp.gif"
 	}, {
 
 		question: "Which former mlb player is known as baseball's hit king?",
