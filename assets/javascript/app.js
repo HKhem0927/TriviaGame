@@ -79,7 +79,7 @@ var game = {
 				 "Boston Red Sox",
 				 "Baltimore Orioles"
 		],
-		correct: "Boston Red Sox",
+		correct: "Baltimore Orioles",
 		image: "assets/images/ruth.gif"
 	}, {
 
