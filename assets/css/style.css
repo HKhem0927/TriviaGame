@@ -1,0 +1,95 @@
+*{
+	color:black;
+	font-weight: bold;
+}
+
+body {
+	background-image: url("../images/baseball.jpg");
+	//background-repeat: repeat;
+}
+
+h1 { 
+	padding-top: 10px;
+	color:black;
+	text-align: center;
+	font-weight: bold;
+
+	 }
+
+h2 {
+	text-align: center;
+	color: brown;
+	font-weight: bold;
+}
+
+.start{
+	text-align: center;
+	padding-top: 10px;
+}
+
+img {
+	max-width: 400px;
+	margin:10px auto;
+	display:inline-block;
+	text-align: center;
+}
+
+#start {
+	border-radius: 5px;
+	background-color:red;
+	width:20%;
+	display:inline-block;
+	text-align: center;
+	color: black;
+}
+
+.quizContainer {
+	background-image: url("../images/ball.png");
+	border-radius: 15px;
+	width:100%;
+	min-height: 600px;
+}
+
+.textContainer {
+	margin:0 auto;
+	width:70%;
+}
+
+ul {
+  list-style-type: none;
+  padding:0px;
+  margin:0px;
+}
+
+.choiceforQuestion {
+	width:100%;
+	background-color: red;
+	padding:10px;
+	margin: 10px auto;
+	border-radius: 5px;
+
+}
+
+.countdown {
+	text-align: center;
+}
+
+.question {
+	text-align: center;
+}
+
+.message {
+	margin:10px auto;
+	text-align: center;
+}
+
+#btnreset {
+	text-align: center;
+	background-color: orange;
+	width:30%;
+	border-radius: 10px;
+}
+
+button:hover {
+	background-color: green;
+}
